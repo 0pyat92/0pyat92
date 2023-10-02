@@ -13,6 +13,8 @@
 </div>
 <div style="display: inline_block"><br/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+</div></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </br>
 <p>Apaixonado por desenvolvimento Full Stack. Há quase dois anos, venho me dedicando e estudando muito para evoluir e superar cada desafio. A tecnologia sempre me encantou e na programação eu realizei o meu maior sonho, seja no front, no back ou no mobile, eu adoro aprender cada vez mais!</p>
