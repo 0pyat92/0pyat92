@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou o Carlos Rogério 🤙🏼
+[![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
-<!--
-**0pripyat92/0pripyat92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no dia a dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+</br>
+<p>Apaixonado por desenvolvimento Full Stack. Há quase dois anos, venho me dedicando e estudando muito para evoluir e superar cada desafio. A tecnologia sempre me encantou e na programação eu realizei o meu maior sonho, seja no front, no back ou no mobile, eu adoro aprender cada vez mais!</p>
