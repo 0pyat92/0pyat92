@@ -28,6 +28,6 @@
 
 
 
-<p>Olá, meu nome é Carlos e sou um apaixonado por desenvolvimento Full Stack. Há quase dois anos, venho me dedicando e estudando muito para evoluir e superar cada desafio. A tecnologia sempre me encantou e na programação eu realizei o meu maior sonho, seja no front, no back ou no mobile, eu adoro aprender cada vez mais!
+<p>Sou um apaixonado por desenvolvimento Full Stack. Há quase dois anos, venho me dedicando e estudando muito para evoluir e superar cada desafio. A tecnologia sempre me encantou e na programação eu realizei o meu maior sonho, seja no front, no back ou no mobile, eu adoro aprender cada vez mais!
 Eu tenho muita curiosidade e vontade de conhecer coisas novas, por isso estou sempre pronto para enfrentar novas tecnologias, novos conhecimentos e novos desafios.
 </p>
