@@ -11,6 +11,8 @@
     
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carlos-VS-Code" height="30" width="40"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+  <img align="center" alt="Carlos-git"   height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 </div><br>
 
   
