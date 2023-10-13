@@ -4,15 +4,20 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso no dia a dia:
+
 <div>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img class"img" align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carlos-Power-Bi" height="30" width="40" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
+  <img align="center" alt="Carlos-Excel"   height="30" width="40" src="https://www.clipartkey.com/mpngs/m/134-1345308_microsoft-excel-computer-icons-microsoft-office-clip-transparent.png">
   <img align="center" alt="Carlos-VS-Code" height="30" width="40"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-  <img align="center" alt="Carlos-git"   height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+  <img align="center" alt="Carlos-git"   height="30" width="40" src="https://www.icmanage.com/wp-content/uploads/2018/03/Git-logo2.png">
+  
+
 </div><br>
 
   
