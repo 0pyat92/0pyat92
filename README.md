@@ -5,7 +5,7 @@ I am passionate about Front-end development. For almost one year, I have been de
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no dia a dia:
+## Technologies I use on a daily basis:
 
 <div>
   <img class"img" align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
