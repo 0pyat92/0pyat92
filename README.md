@@ -1,4 +1,6 @@
-### Olá! Eu sou o Carlos Rogério 🤙🏼
+### Hello my name is Carlos Rogério 🤙🏼
+I am passionate about Front-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
+
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
@@ -24,6 +26,4 @@
 
 
 
-<p>Sou um apaixonado por desenvolvimento Full Stack. Há quase dois anos, venho me dedicando e estudando muito para evoluir e superar cada desafio. A tecnologia sempre me encantou e na programação eu realizei o meu maior sonho, seja no front, no back ou no mobile, eu adoro aprender cada vez mais!
-Eu tenho muita curiosidade e vontade de conhecer coisas novas, por isso estou sempre pronto para enfrentar novas tecnologias, novos conhecimentos e novos desafios.
-</p>
+<p>A self-taught front-end jr developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js. And Data Analyst jr, with a strong background in Database, Python, Advanced Excel, Power Bi.</p>
