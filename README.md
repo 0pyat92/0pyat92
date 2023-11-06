@@ -1,6 +1,8 @@
 ### Hello, my name is Carlos Rogério. 🤙🏼
 I am passionate about Front-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
+<img aling="right" src="https://giphy.com/embed/j5oP7zSilio3SewxAA">
+
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
