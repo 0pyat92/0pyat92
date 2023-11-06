@@ -1,9 +1,11 @@
 ### Hello, my name is Carlos Rogério. 🤙🏼
+<div>
+  <img alt="codigo" height="150" width="400" src="https://media3.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif">
+</div>
+</br>
+
 I am passionate about Front-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
-<img aling="right" src="https://giphy.com/embed/j5oP7zSilio3SewxAA">
-
-[![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
 
@@ -30,3 +32,7 @@ I am passionate about Front-end development. For almost one year, I have been de
 
 
 A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js, and Data Analyst Jr, with a strong background in Database; Python, Advanced Excel, Power Bi.
+
+Talk to me <br>
+[![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
+
