@@ -1,6 +1,6 @@
 ### Hello, my name is Carlos Rogério. 🤙🏼
 <div>
-  <img alt="Bandersnatch" height="200" width="400" src="https://www.numerama.com/content/uploads/2018/12/noz.gif">
+  <img  height="200" width="400" src="https://www.numerama.com/content/uploads/2018/12/noz.gif" alt="Bandersnatch">
 </div>
 </br>
 
