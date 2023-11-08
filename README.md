@@ -1,8 +1,3 @@
-@font-face {
-  font-family: "Mom«t___";
-  src: url("");
-}
-
 ### Hello, my name is Carlos Rogério. 🤙🏼
 <div>
   <img  height="200" width="400" src="https://www.numerama.com/content/uploads/2018/12/noz.gif" alt="Bandersnatch">
