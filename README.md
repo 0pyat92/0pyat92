@@ -1,6 +1,6 @@
 ### Hello, my name is Carlos Rogério. 🤙🏼
 <div>
-  <img alt="codigo" height="150" width="400" src="https://media3.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif">
+  <img alt="codigo" " height="200" width="400" src="https://www.numerama.com/content/uploads/2018/12/noz.gif">
 </div>
 </br>
 
