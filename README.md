@@ -24,8 +24,7 @@ I am passionate about Front-end development. For almost one year, I have been de
   <img align="center" alt="Carlos-git"   height="30" width="40" src="https://www.icmanage.com/wp-content/uploads/2018/03/Git-logo2.png">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-VS-Code" height="30" width="40"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-  <img align="center" alt="Carlos-Jupyter"   height="30" width="40" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3201658/jupyter-icon-md.png">
-
+  <img align="center" alt="Carlos-Jupyter"   height="30" width="40" src="https://keestalkstech.com/wp-content/uploads/2020/05/1200px-Jupyter_logo.svg1_-300x300.png">
 
   </div><br>
 
