@@ -21,7 +21,7 @@ I am passionate about Front-end development. For almost one year, I have been de
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-Power-Bi" height="30" width="40" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
   <img align="center" alt="Carlos-Excel"   height="30" width="40" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
-  <img align="center" alt="Carlos-git"   height="30" width="40" src="https://www.icmanage.com/wp-content/uploads/2018/03/Git-logo2.png">
+  <img align="center" alt="Carlos-git"   height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
   <img align="center" alt="Carlos-VS-Code" height="30" width="40"src="https://th.bing.com/th/id/R.01d46d43618345a675b4348124ad403b?rik=NE%2fZLSJklPkUOA&pid=ImgRaw&r=0">
   <img align="center" alt="Carlos-Jupyter"   height="30" width="40" src="https://keestalkstech.com/wp-content/uploads/2020/05/1200px-Jupyter_logo.svg1_-300x300.png">
