@@ -10,7 +10,7 @@
 I am passionate about Full Stack development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
 
-## Technologies I use on a daily basis:
+## Studying...
 
 <div>
   <img class"img" align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
