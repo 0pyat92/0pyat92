@@ -4,7 +4,7 @@
 </div>
 </br>
 
-I am passionate about Front-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
+I am passionate about Full Stack development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
 
 ## Technologies I use on a daily basis:
