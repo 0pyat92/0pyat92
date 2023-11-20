@@ -1,4 +1,7 @@
 ### Hello, my name is Carlos Rogério. 🤙🏼
+- [x] "Repetition with correction to exhaustion makes perfect."
+
+  
 <div>
   <img  height="200" width="400" src="https://i.gifer.com/origin/4d/4d3e7b98dca300caa3365ea6870c8e3d.gif">
 </div>
