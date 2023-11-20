@@ -7,8 +7,6 @@
 I am passionate about Front-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dark)
-
 ## Technologies I use on a daily basis:
 
 <div>
@@ -29,7 +27,6 @@ I am passionate about Front-end development. For almost one year, I have been de
   </div><br>
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0pripyat92&hide_progress=true)
 
 
 A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js, and Data Analyst Jr, with a strong background in Database; Python, Advanced Excel, Power Bi.
