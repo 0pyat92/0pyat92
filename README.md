@@ -7,7 +7,7 @@
 </div>
 </br>
 
-I am passionate about Full Stack development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
+I am passionate about Fron-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
 
 ## Studying...
@@ -32,8 +32,7 @@ I am passionate about Full Stack development. For almost one year, I have been d
   
 
 
-A self-taught Full Stack Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js, and Data Analyst Jr, with a strong background in Database; Python, Advanced Excel, Power Bi.
-
+A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js
 Talk to me <br>
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
