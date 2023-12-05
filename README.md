@@ -13,8 +13,8 @@ I am passionate about Fron-end development. For almost one year, I have been ded
 ## Studying...
 
 <div>
-  <img class"img" align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carlos-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-word-press"   height="30" width="40" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-Node-Js" height="30" width="40" src="https://pluspng.com/img-png/nodejs-png--400.png">
