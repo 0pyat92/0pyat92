@@ -26,13 +26,14 @@ I am passionate about Fron-end development. For almost one year, I have been ded
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
   <img align="center" alt="Carlos-VS-Code" height="30" width="40"src="https://th.bing.com/th/id/R.01d46d43618345a675b4348124ad403b?rik=NE%2fZLSJklPkUOA&pid=ImgRaw&r=0">
   <img align="center" alt="Carlos-Jupyter"   height="30" width="40" src="https://keestalkstech.com/wp-content/uploads/2020/05/1200px-Jupyter_logo.svg1_-300x300.png">
-
-  </div><br>
+</div>
+ <br>
 
   
 
 
 A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js
-Talk to me <br>
+
+<br> Talk to me <br>
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
