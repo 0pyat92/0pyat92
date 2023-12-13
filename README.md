@@ -1,5 +1,7 @@
-### Hello, my name is Carlos Rogério. 🤙🏼
-- [x] "Repetition with correction to exhaustion makes perfect."
+<h1>Front-end Developer</h1>
+<h3>With a strong background in HTML5, CSS3, JavaScript, Node.Js.
+I believe that minimalism, indexing, and responsiveness are important concepts in modern web design.</h3>
+<h4>"Repetition with correction to exhaustion makes perfect."</h4>
 
   
 <div>
@@ -32,7 +34,7 @@ I am passionate about Fron-end development. For almost one year, I have been ded
   
 
 
-A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js
+<h3>A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js</h3>
 
 <br> Talk to me <br>
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
