@@ -9,7 +9,6 @@ I believe that minimalism, indexing, and responsiveness are important concepts i
 </div>
 </br>
 
-I am passionate about Fron-end development. For almost one year, I have been dedicating myself and studying a lot to evolve and overcome each challenge.
 
 
 ## Studying...
@@ -34,8 +33,8 @@ I am passionate about Fron-end development. For almost one year, I have been ded
   
 
 
-<h3>A self-taught Front-end Jr Developer, with a strong background in HTML5, CSS3, JavaScript, Node.Js</h3>
+<h3>A self-taught Front-end Developer</h3>
 
-<br> Talk to me <br>
+<br> <h4>Talk to me</h4> <br>
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
 
