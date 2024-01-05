@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="200" width="300" border-radios="30" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
+<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
 
 <h1>
     <a href="https://github.com/0pripyat92/0pripyat92">
