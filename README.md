@@ -5,14 +5,14 @@
      <img align="left" alt="Lua" width="36px" src="https://i.pinimg.com/originals/44/a7/10/44a710f29062f87045990c6b30675f54.png"></a>
     <span>Carlos Rogério</span>
 </h1>
-<h3>A self-taught Front-end Developer</h3>
-<p align="left">Front-end Developer from São Paulo-SP, Brazil, self-educated.<br> My first "Hello World" was in 2019 when I had a strong contact with HTML5, CSS3, JavaScript, Node.Js and Angular.<br>
+<h3>A Self-taught Front-end Developer</h3>
+<p align="left">Front-end Developer from São Paulo-SP, Brazil.<br> My first "Hello World" was in 2019 at the beginning of the Pandemic, when I had a strong contact with HTML5, CSS3, JavaScript, Node.Js and Angular through free courses and youtube videos.  Currently I'm still studying other technologies....<br>
 I believe that minimalism, indexing, and responsiveness are important concepts in modern web design.
 <br><br>
  Passionate about nature, astronomy and technology, some of my hobbies are Camping, Trekking, studying and developing strategies for e-commerces <a href="https://www.instagram.com/0pripyat/">(@0pripyat)</a>.<br>
 <h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
 
-<h3 align="left">Connect with me</h3>
+<br> <h3>Let’s work together?</h3> 
 
 [![LinkedIn](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/0pripyat/) 
 [![Instagram](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/0pripyat/) 
@@ -52,6 +52,6 @@ I believe that minimalism, indexing, and responsiveness are important concepts i
 
 
 
-<br> <h4>Let’s work together </h4> <br>
-[![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991033223)
+
+
 
