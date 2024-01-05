@@ -34,7 +34,8 @@ I believe that minimalism, indexing, and responsiveness are important concepts i
 <img align="center" alt="npm" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
 <img align="center" alt="Carlos-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Carlos-word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
-    <br><br>
+<img align="center" alt="discordjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
+<br><br>
 <img align="center" alt="Carlos-Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 <img align="center" alt="Carlos-Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
 <img align="center" alt="Carlos-Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
