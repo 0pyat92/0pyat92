@@ -6,10 +6,10 @@
     <span>Carlos Rogério</span>
 </h1>
 <h3>A Self-taught Front-end Developer</h3>
-<p align="left">Front-end Developer, I live in the countryside of São Paulo, Brazil.<br> My first "Hello World" was in 2019 at the beginning of the Pandemic, when I had a strong contact with HTML5, CSS3, JavaScript, Node.Js and Angular through free courses and <br> youtube videos.  Currently I'm still studying other technologies....<br>
-I believe that minimalism, indexing, and responsiveness are important concepts in modern web design.
-<br><br>
- Passionate about nature, astronomy and technology, some of my hobbies are Camping, Trekking, studying and developing strategies for e-commerces <a href="https://www.instagram.com/0pripyat/">(@0pripyat)</a>.<br>
+<p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
+<br>
+<p align="justfy">I am passionate about nature, astronomy, and technology. Some of my hobbies are camping, trekking, studying, and developing strategies for e-commerce.
+   <a href="https://www.instagram.com/0pripyat/">(@0pripyat)</a></p><br>
 <h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
 
 <br> <h3>Let’s work together?</h3> 
