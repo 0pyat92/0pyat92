@@ -1,12 +1,12 @@
-<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
-
+<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+<br>
 <h1>
-    <a href="https://github.com/0pripyat92/0pripyat92">
+   <br> <a href="https://github.com/0pripyat92/0pripyat92">
      <img align="left" alt="Lua" width="36px" src="https://i.pinimg.com/originals/44/a7/10/44a710f29062f87045990c6b30675f54.png"></a>
     <span>Carlos Rogério</span>
 </h1>
 <h3>A Self-taught Front-end Developer</h3>
-<p align="left">Front-end Developer from São Paulo-SP, Brazil.<br> My first "Hello World" was in 2019 at the beginning of the Pandemic, when I had a strong contact with HTML5, CSS3, JavaScript, Node.Js and Angular through free courses and youtube videos.  Currently I'm still studying other technologies....<br>
+<p align="left">Front-end Developer, I live in the countryside of São Paulo, Brazil.<br> My first "Hello World" was in 2019 at the beginning of the Pandemic, when I had a strong contact with HTML5, CSS3, JavaScript, Node.Js and Angular through free courses and <br> youtube videos.  Currently I'm still studying other technologies....<br>
 I believe that minimalism, indexing, and responsiveness are important concepts in modern web design.
 <br><br>
  Passionate about nature, astronomy and technology, some of my hobbies are Camping, Trekking, studying and developing strategies for e-commerces <a href="https://www.instagram.com/0pripyat/">(@0pripyat)</a>.<br>
