@@ -43,6 +43,9 @@
 <img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 <img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
 <img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+<img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+
+   
 </div>
  <br>
 
