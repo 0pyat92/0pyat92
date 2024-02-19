@@ -9,17 +9,12 @@
 <p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
 <br>
 <p align="justfy">I am passionate about nature, astronomy, and technology. Some of my hobbies are camping, trekking, studying, and developing strategies for e-commerce.
-   <a href="https://www.instagram.com/00crj_/">(@00crj_)</a></p><br>
-<h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
+   <a href="https://www.instagram.com/00crj_/">(@00crj_)</a></p>
 
-<br> <h3>Let’s work together?</h3> 
+<h3 align="left">"Repetition with correction to exhaustion makes perfect."</h3></p>
 
-[![LinkedIn](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/0pripyat/) 
-[![Instagram](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/0pripyat/) 
-[![YouTube](https://img.shields.io/badge/-0_pripyat-000?style=for-the-badge&logo=x&logoColor=62b1d4&color:FFF)](https://twitter.com/0_pripyat) 
-[![WhatsApp](https://img.shields.io/badge/-+5511991033223-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5511991033223)
 <h3 align="left">Studying...</h3>
-<div>
+<div align="left">
 <img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">         
 <img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
 <img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
@@ -53,17 +48,14 @@
 
   <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0pripyat92&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=jolly)
-
-<div align="center">
-  <a href="https://github.com/JoyceFatima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pripyat92&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/0pripyat92">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dracula&include_all_commits=true&count_private-truelayout=compact&langs_count=16&theme=light"/>
+   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pripyat92&layout=compact&langs_count=16&theme=light"/>
 </div>
+<h3 align="left">Let’s work together?</h3> 
 
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/0pripyat/)
+[![Instagram](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/0pripyat/) 
+[![YouTube](https://img.shields.io/badge/-0_pripyat-000?style=for-the-badge&logo=x&logoColor=62b1d4&color:FFF)](https://twitter.com/0_pripyat) 
+[![WhatsApp](https://img.shields.io/badge/-+5511991033223-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5511991033223)
