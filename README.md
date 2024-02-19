@@ -55,6 +55,12 @@
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0pripyat92&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=jolly)
 
+<div align="center">
+  <a href="https://github.com/JoyceFatima">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0pripyat92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0pripyat92&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 
 
