@@ -35,6 +35,8 @@
 <img align="center" alt="word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
 <br><br>
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
+   
+<img align="center" alt="Python" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 <img align="center" alt="mysql" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 <img align="center" alt="apache" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
