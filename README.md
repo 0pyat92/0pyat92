@@ -16,8 +16,8 @@
 <h3 align="left">Study with me...</h3>
 <div align="left">
 <p><a hfer="#"><img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>       
-<a hfer="https://github.com/0pripyat92/Curso-Html-css"><img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
-<a hfer="https://github.com/0pripyat92/Curso-Html-css"><img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a hfer="https://github.com/0pripyat92/Aula-Html-css-Guanabara"><img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
+<a hfer="https://github.com/0pripyat92/Aula-Html-css-Guanabara"><img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a hfer="https://github.com/0pripyat92/Javascript-curso-Gustavo-Guanabara"><img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 <a hfer="#"><img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png"></a>
 </p><br>
