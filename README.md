@@ -13,42 +13,41 @@
 
 <h3 align="left">"Repetition with correction to exhaustion makes perfect."</h3></p>
 
-<h3 align="left">Studying...</h3>
+<h3 align="left">Study with me...</h3>
 <div align="left">
-<img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">         
-<img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
-<img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-<img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png">
-<br><br>
-<img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<br><br>
-<img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="tapyscript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="angularjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="npm" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<br><br>
-<img align="center" alt="canva" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-<img align="center" alt="figma" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img align="center" alt="word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
-<br><br>
-<img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
-   
-<img align="center" alt="Python" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-<img align="center" alt="mysql" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-<img align="center" alt="apache" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
-<img align="center" alt="anaconda" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-<br><br>
-<img align="center" alt="Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
-<img align="center" alt="Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
-<br><br>
-<img align="center" alt="arduino" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-<img align="center" alt="linux" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img align="center" alt="discordjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">   
-</div>
+<p><a hfer="#"><img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>       
+<a hfer="https://github.com/0pripyat92/Curso-Html-css"><img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
+<a hfer="https://github.com/0pripyat92/Curso-Html-css"><img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a hfer="https://github.com/0pripyat92/Javascript-curso-Gustavo-Guanabara"><img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+<a hfer="#"><img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png"></a>
+</p><br>
+<p><a hfer="#"><img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
+<a hfer="#"><img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
+<p/><br>
+<p><a hfer="https://github.com/0pripyat92/Aula-de-Bootstrap-Ricardo-Maroquio"><img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
+<a hfer="#"><img align="center" alt="tapyscript" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
+<a hfer="#"><img align="center" alt="angularjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></a>
+<a hfer="#"><img align="center" alt="npm" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></a>
+<a hfer="#"><img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+</p><br>
+<p><a hfer="#"><img align="center" alt="canva" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>
+<a hfer="#"><img align="center" alt="figma" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>
+<a hfer="#"><img align="center" alt="word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png"></a>
+</p><br>
+<p><a hfer="https://github.com/0pripyat92/Aulas-Python-Ricardo-Maroquio"><img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></a>
+<a hfer="#"><img align="center" alt="Php" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></a>
+<a hfer="https://github.com/0pripyat92/Aula--de-mysql-diadiadosuporteti"><img align="center" alt="mysql" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
+<a hfer="#"><img align="center" alt="Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></a>
+<a hfer="#"><img align="center" alt="apache" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"></a>
+<a hfer="#"><img align="center" alt="anaconda" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></a>
+</p><br>
+<p><a hfer="#"><img align="center" alt="Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png"></a>
+<a hfer="#"><img align="center" alt="Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"></a>
+</p><br>
+<p><a hfer="#"><img align="center" alt="arduino" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></a>
+<a hfer="https://github.com/0pripyat92/Aula-de-Pentest"><img align="center" alt="linux" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></a>
+<a hfer="#"><img align="center" alt="discordjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg"></a>
+</p></div>
  <br>
 
   <h3 align="left">GitHub Stats</h3>
