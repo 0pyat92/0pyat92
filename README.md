@@ -61,5 +61,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-0pyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/0pripyat/)
 [![Instagram](https://img.shields.io/badge/-0pyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/0pyat/) 
-[![YouTube](https://img.shields.io/badge/-0_pyat-000?style=for-the-badge&logo=x&logoColor=62b1d4&color:FFF)](https://twitter.com/0_pripyat) 
+[![YouTube](https://img.shields.io/badge/-0_pyat-000?style=for-the-badge&logo=x&logoColor=62b1d4&color:FFF)](https://twitter.com/0pyat) 
 [![WhatsApp](https://img.shields.io/badge/-+5511991033223-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5511991033223)
