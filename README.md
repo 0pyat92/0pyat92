@@ -1,9 +1,9 @@
-<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+<img align="right" padding="20px" alt="Coragem" height="260" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
 
-    <span>Carlos Rogério</span>
+    
    
-
+<strong>Carlos Rogério</strong>
 <h3>A Self-taught Front-end Developer</h3>
 <p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
 <br>
